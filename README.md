@@ -1,3 +1,3 @@
 # JavaScript for advanced Web development
 
-## Contains all the solution of First Asiigment
+### This repository contains all the solutions of Assignment 1 of "JavaScript for advanced Web development".
